@@ -15,7 +15,7 @@ export default styles = StyleSheet.create({
   },
   image: {
     width: "100%",
-    aspectRatio: 2 / 3,
+    aspectRatio: 0.8,
     borderRadius: 10,
     objectFit: "contain",
   },
